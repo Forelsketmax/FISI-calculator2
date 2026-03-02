@@ -1,6 +1,6 @@
 # FISI 计算器
 
-> 食物炎症指数评估工具 - Food-based Inflammatory Score Index Calculator
+> 食物炎症指数评估工具 - Food Inflammation Scores of Individuals Calculator
 
 一个基于Web的FISI计算器，帮助用户评估饮食的炎症指数。支持在9223种食物中进行模糊搜索，实时计算FISI值，并判定促炎或抗炎状态。
 
@@ -212,3 +212,4 @@ A: 当前版本不支持数据持久化。刷新页面后数据会丢失。
 ---
 
 ⭐ 如果这个项目对你有帮助，请给个Star！
+
